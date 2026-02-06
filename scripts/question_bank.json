@@ -1,0 +1,238 @@
+[
+    {
+        "title": "Tryout Akbar SNBT 2026",
+        "description": "Simulasi lengkap UTBK-SNBT 2026 dengan sistem penilaian IRT. Mencakup 4 subtes utama.",
+        "duration_minutes": 10,
+        "scoring_type": "irt",
+        "is_free": true,
+        "questions": [
+            {
+                "category": "Penalaran Umum",
+                "irt_weight": 1.2,
+                "content": {
+                    "text": "Semua mamalia bernapas dengan paru-paru. Ikan paus bernapas dengan paru-paru. Ikan hiu bernapas dengan insang.",
+                    "question": "Kesimpulan yang paling tepat adalah..."
+                },
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Ikan paus adalah mamalia."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Ikan hiu adalah mamalia."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Semua hewan air bernapas dengan insang."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Ikan paus bukan ikan."
+                    },
+                    {
+                        "label": "E",
+                        "text": "Tidak dapat ditarik kesimpulan."
+                    }
+                ],
+                "correct_answer": "A"
+            },
+            {
+                "category": "Penalaran Umum",
+                "irt_weight": 0.9,
+                "content": {
+                    "text": "Jika hujan turun, maka jalan basah. Jalan tidak basah.",
+                    "question": "Simpulan yang sah adalah..."
+                },
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Hujan tidak turun."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Hujan turun tapi jalan kering."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Jalan basah karena disiram."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Mungkin hujan turun."
+                    },
+                    {
+                        "label": "E",
+                        "text": "Tidak ada hubungan antara hujan dan jalan."
+                    }
+                ],
+                "correct_answer": "A"
+            },
+            {
+                "category": "Pengetahuan Kuantitatif",
+                "irt_weight": 1.5,
+                "content": {
+                    "text": "",
+                    "question": "Jika x + y = 10 dan x - y = 4, maka nilai x * y adalah..."
+                },
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "16"
+                    },
+                    {
+                        "label": "B",
+                        "text": "20"
+                    },
+                    {
+                        "label": "C",
+                        "text": "21"
+                    },
+                    {
+                        "label": "D",
+                        "text": "24"
+                    },
+                    {
+                        "label": "E",
+                        "text": "25"
+                    }
+                ],
+                "correct_answer": "C"
+            },
+            {
+                "category": "Pengetahuan Kuantitatif",
+                "irt_weight": 1.8,
+                "content": {
+                    "text": "",
+                    "question": "Bilangan berikut yang habis dibagi 3 dan 4 adalah..."
+                },
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "1234"
+                    },
+                    {
+                        "label": "B",
+                        "text": "2024"
+                    },
+                    {
+                        "label": "C",
+                        "text": "1008"
+                    },
+                    {
+                        "label": "D",
+                        "text": "3333"
+                    },
+                    {
+                        "label": "E",
+                        "text": "1111"
+                    }
+                ],
+                "correct_answer": "C"
+            },
+            {
+                "category": "Literasi Bahasa Indonesia",
+                "irt_weight": 1.0,
+                "content": {
+                    "text": "Perubahan iklim telah menjadi isu global yang mendesak. Kenaikan suhu bumi menyebabkan mencairnya es di kutub dan naiknya permukaan air laut. Hal ini mengancam keberlangsungan pulau-pulau kecil.",
+                    "question": "Gagasan utama paragraf di atas adalah..."
+                },
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Es di kutub mencair dengan cepat."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Pulau kecil akan tenggelam."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Dampak perubahan iklim global."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Kenaikan suhu bumi yang drastis."
+                    },
+                    {
+                        "label": "E",
+                        "text": "Pentingnya menjaga lingkungan."
+                    }
+                ],
+                "correct_answer": "C"
+            },
+            {
+                "category": "Literasi Bahasa Inggris",
+                "irt_weight": 1.3,
+                "content": {
+                    "text": "Artificial Intelligence (AI) has transformed many industries. From healthcare diagnostics to autonomous vehicles, AI systems are becoming pervasive. However, ethical concerns regarding privacy and bias remain significant challenges.",
+                    "question": "What is the author's tone regarding AI?"
+                },
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Optimistic but cautionary"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Purely critical"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Indifferent"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Overly enthusiastic"
+                    },
+                    {
+                        "label": "E",
+                        "text": "Sarcastic"
+                    }
+                ],
+                "correct_answer": "A"
+            }
+        ]
+    },
+    {
+        "title": "Tryout Premium SNBT 2026",
+        "description": "Paket eksklusif dengan soal prediksi akurat dan pembahasan video.",
+        "duration_minutes": 120,
+        "scoring_type": "irt",
+        "is_free": false,
+        "price": 50000,
+        "questions": [
+            {
+                "category": "Penalaran Umum",
+                "irt_weight": 1.2,
+                "content": {
+                    "text": "PREMIUM QUESTION: Jika A > B dan B > C, maka...",
+                    "question": "Kesimpulan yang benar adalah..."
+                },
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "A > C"
+                    },
+                    {
+                        "label": "B",
+                        "text": "A < C"
+                    },
+                    {
+                        "label": "C",
+                        "text": "A = C"
+                    },
+                    {
+                        "label": "D",
+                        "text": "B = C"
+                    },
+                    {
+                        "label": "E",
+                        "text": "Tidak ada hubungan"
+                    }
+                ],
+                "correct_answer": "A"
+            }
+        ]
+    }
+]
