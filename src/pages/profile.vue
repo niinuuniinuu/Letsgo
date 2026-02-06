@@ -45,9 +45,9 @@ const updateProfile = async () => {
       updated_at: new Date().toISOString(),
     }
 
-    const { error } = await client
-      .from('profiles')
-      .update(updates as any)
+    const { error } = await (client
+      .from('profiles') as any)
+      .update(updates)
       .eq('id', user.value.id)
 
     if (error) throw error
