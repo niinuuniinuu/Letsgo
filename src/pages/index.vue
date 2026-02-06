@@ -20,7 +20,7 @@
           </div>
           <h2 class="text-2xl font-bold">Tryout Gratis</h2>
           <p class="text-slate-400">Mulai simulasi pertamamu tanpa biaya. Coba fitur IRT kami.</p>
-          <NuxtLink to="/tryout" class="btn-primary w-full text-center">Mulai Tryout</NuxtLink>
+          <NuxtLink to="/dashboard" class="btn-primary w-full text-center">Mulai Tryout</NuxtLink>
         </BaseGlassCard>
 
         <BaseGlassCard class="flex flex-col items-center space-y-4 border-pink-500/20">
@@ -29,9 +29,9 @@
           </div>
           <h2 class="text-2xl font-bold text-pink-400">Tryout Premium</h2>
           <p class="text-slate-400">Dapatkan akses penuh ke soal-soal prediksi & analisis mendalam.</p>
-          <button class="px-6 py-2 bg-pink-600 hover:bg-pink-500 rounded-lg font-semibold transition-all duration-300 shadow-[0_0_20px_rgba(236,72,153,0.3)] hover:scale-[1.02] active:scale-[0.98] w-full">
+          <NuxtLink to="/pricing" class="px-6 py-2 bg-pink-600 hover:bg-pink-500 rounded-lg font-semibold transition-all duration-300 shadow-[0_0_20px_rgba(236,72,153,0.3)] hover:scale-[1.02] active:scale-[0.98] w-full text-center">
             Buka Premium
-          </button>
+          </NuxtLink>
         </BaseGlassCard>
       </div>
     </div>

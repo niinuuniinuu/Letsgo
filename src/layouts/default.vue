@@ -23,10 +23,12 @@ const handleLogout = async () => {
           <NuxtLink to="/dashboard" class="hover:text-white transition-colors">Dashboard</NuxtLink>
           <NuxtLink to="/history" class="hover:text-white transition-colors">Riwayat</NuxtLink>
           <NuxtLink to="/leaderboard" class="hover:text-yellow-400 transition-colors text-yellow-200/80">Ranking</NuxtLink>
+          <!-- Battle Mode Postponed 
           <NuxtLink to="/battle" class="group relative hover:text-white transition-colors flex items-center gap-2">
             <span class="absolute -top-1 -right-2 w-2 h-2 bg-red-500 rounded-full animate-pulse"></span>
             <span class="text-orange-400 group-hover:text-orange-300">Battle ⚔️</span>
           </NuxtLink>
+          -->
           <NuxtLink to="/profile" class="hover:text-white transition-colors">Profil</NuxtLink>
           <NuxtLink to="/pricing" class="hover:text-white transition-colors">Pricing</NuxtLink>
         </div>
